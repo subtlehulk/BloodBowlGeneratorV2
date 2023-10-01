@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBowlGeneratorV2", "BloodBowlGeneratorV2.csproj", "{92070316-0432-4275-8B15-7F48524D5CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92070316-0432-4275-8B15-7F48524D5CFF}.Debug|x86.ActiveCfg = Debug|x86
+		{92070316-0432-4275-8B15-7F48524D5CFF}.Debug|x86.Build.0 = Debug|x86
+		{92070316-0432-4275-8B15-7F48524D5CFF}.Release|x86.ActiveCfg = Release|x86
+		{92070316-0432-4275-8B15-7F48524D5CFF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A869DD5F-C6CE-448F-89D0-DE3686E41AD5}
+	EndGlobalSection
+EndGlobal
