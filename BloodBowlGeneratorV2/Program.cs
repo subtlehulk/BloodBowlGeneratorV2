@@ -86,14 +86,6 @@
 
         }
 
-        static void Elevens()
-        {
 
-        }
-
-        static void Sevens()
-        {
-
-        }
     }
 }
