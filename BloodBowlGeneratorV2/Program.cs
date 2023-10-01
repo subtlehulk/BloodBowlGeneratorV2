@@ -4,9 +4,14 @@
     {
         static void Main(string[] args)
         {
-            //Blood Bowl action generator that generates a random sequence of actions you can take for your player.
+            /*  
+            *   Blood Bowl action generator that generates a random sequence of actions you can take for your player.
+            *
+            *   Version 2 - randomly generates the order of actions for the user to carry out, and a new set of actions are generated when the user hits a key (preferably enter). 
+            *   The user will determine which player (if eligible) carries out the action.
+            *
+            */
 
-            //Version 2 - randomly generates the order of the actions to be taken. The user will determine which players take the actions.
             Welcome();
             StartGame();
 
